@@ -24,6 +24,7 @@ In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig h
 
 ## Vagrant VM Konfiguration
 * Vagrant Box: ubuntu/xenial64
+* VM Provider: Virtual Box
 * CPU Cores: 2
 * Ram: 512MB
 * Massenspeicher: 40GB
