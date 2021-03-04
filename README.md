@@ -2,7 +2,7 @@
 
 ## M300 - 10 Toolumgebung 
 
-In diesem Kapitel haben wir unsere umgebung eingerichtet. Dabei mussten vor allem Tools installiert und konfiguriert werden. Folgende Schritte wurden bei diesem Kapitel durchgeführt: 
+In diesem Kapitel haben wir unsere Umgebung eingerichtet. Dabei mussten vor allem Tools installiert und konfiguriert werden. Folgende Schritte wurden bei diesem Kapitel durchgeführt: 
 * Github Account und Repository erstellt
 * SSH Key erstellt
 ```Shell
@@ -19,3 +19,5 @@ In diesem Kapitel haben wir unsere umgebung eingerichtet. Dabei mussten vor alle
 
 
 ## M300 - 20 Infrastruktur-Automatisierung
+
+In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig hatte habe ich mit der Dokumentation im MD format angefangen.
