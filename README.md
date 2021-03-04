@@ -6,7 +6,7 @@ In diesem Kapitel haben wir unsere umgebung eingerichtet. Dabei mussten vor alle
 * Github Account und Repository erstellt
 * SSH Key erstellt
 ```Shell
-      $  ssh-keygen -t rsa -b 4096 -C "beispiel@beispiel.com"
+      $  ssh-keygen -t rsa -b 4096 -C "moseryanick@gmail.com"
 ```
 * SSH Key dem SSH-Agent hinzugefügt
 * Git Cient installiert und repository auf lokalen PC geklont
