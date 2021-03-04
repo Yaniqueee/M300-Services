@@ -21,3 +21,11 @@ In diesem Kapitel haben wir unsere Umgebung eingerichtet. Dabei mussten vor alle
 ## M300 - 20 Infrastruktur-Automatisierung
 
 In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig hatte habe ich mit der Dokumentation im MD format angefangen.
+
+## Vagrant VM Konfiguration
+* Vagrant Box: ubuntu/xenial64
+* CPU Cores: 2
+* Ram: 512MB
+* Massenspeicher: 40GB
+* Installierte Programme: Apache2
+* IP Adresse: 10.0.2.2
