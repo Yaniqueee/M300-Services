@@ -22,7 +22,9 @@ In diesem Kapitel haben wir unsere Umgebung eingerichtet. Dabei mussten vor alle
 
 In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig hatte habe ich mit der Dokumentation im MD format angefangen.
 
-## Vagrant VM Konfiguration
+## Vagrant VM
+
+### Konfiguration
 * Vagrant Box: ubuntu/xenial64
 * VM Provider: Virtual Box
 * Hostname: ubuntu-xenial
@@ -32,7 +34,7 @@ In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig h
 * Installierte Programme: Apache2
 * IP Adresse: 10.0.2.2
 
-## Netzwerkplan Vagrant VM
+### Netzwerkplan Vagrant VM
 
 ![Netzwerkplan](https://user-images.githubusercontent.com/78543849/110806039-f653a100-8281-11eb-946c-d3cadadc01b0.png)
 
