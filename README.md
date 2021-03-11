@@ -32,6 +32,11 @@ In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig h
 * Installierte Programme: Apache2
 * IP Adresse: 10.0.2.2
 
+## Netzwerkplan Vagrant VM
+
+![Netzwerkplan](https://user-images.githubusercontent.com/78543849/110806039-f653a100-8281-11eb-946c-d3cadadc01b0.png)
+
+
 ## Testing der Vagrant VM
 
 
@@ -43,3 +48,5 @@ In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig h
 
 ### Portforwarding
 ![Screenshot Portforwarding](https://github.com/Yaniqueee/M300-Services/blob/main/Screenshot%202021-03-11%20152723.png)
+
+
