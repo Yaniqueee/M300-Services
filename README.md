@@ -35,5 +35,11 @@ In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig h
 ## Testing der Vagrant VM
 
 
-### Apache2 Web Server
+### Apache2 Web Server mit anderem Port
 ![Screenshot Apache2](https://github.com/Yaniqueee/M300-Services/blob/main/Screenshot%202021-03-11%20142645.png)
+
+### Apache2 Web Server änderungen im index.html
+![Screenshot änderung Apache2](https://github.com/Yaniqueee/M300-Services/blob/main/Screenshot%202021-03-11%20152331.png)
+
+### Portforwarding
+![Screenshot Portforwarding](https://github.com/Yaniqueee/M300-Services/blob/main/Screenshot%202021-03-11%20152723.png)
