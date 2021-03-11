@@ -32,4 +32,8 @@ In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig h
 * Installierte Programme: Apache2
 * IP Adresse: 10.0.2.2
 
+## Testing der Vagrant VM
+
+
+### Apache2 Web Server
 ![Screenshot Apache2](https://github.com/Yaniqueee/M300-Services/blob/main/Screenshot%202021-03-11%20142645.png)
