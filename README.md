@@ -18,6 +18,7 @@ In diesem Kapitel haben wir unsere Umgebung eingerichtet. Dabei mussten vor alle
 * Repository hinzugefügt und gepusht
 
 
+
 ## M300 - 20 Infrastruktur-Automatisierung
 
 In diesem Kapitel ging es vor allem um die Theorie. Als ich die Theorie fertig hatte habe ich mit der Dokumentation im MD format angefangen.
